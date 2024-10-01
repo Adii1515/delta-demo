@@ -1,2 +1,2 @@
 # delta-demo
-repository for GIT and GIT HUB commands
+repository for GIT and GIT HUB commands.
